@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  height: 100vh;
+  overflow: hidden;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.row {
+  margin: 1px;
+  padding: 0;
+  height: 14px;
+}
+
+.checkbox {
+  width: 13px;
+  height: 13px;
+  margin: 1px;
+}
